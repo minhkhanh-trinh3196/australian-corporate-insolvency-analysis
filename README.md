@@ -60,7 +60,9 @@ National appointment totals include all 20 recorded industry categories, includi
 
 Monthly appointment counts are reconciled against the official ASIC summary statistics contained within the source workbook.
 
-**Official data source:** Australian Securities and Investments Commission (ASIC)
+**Official data source:** [ASIC - Insolvency Statistics](https://www.asic.gov.au/about-asic/corporate-publications/statistics/insolvency-statistics)
+
+**Statistical definitions and interpretation:** [ASIC - How to Interpret Corporate Insolvency Statistics](https://www.asic.gov.au/about-asic/corporate-publications/statistics/insolvency-statistics/how-to-interpret-asics-corporate-insolvency-statistics)
 
 ---
 
