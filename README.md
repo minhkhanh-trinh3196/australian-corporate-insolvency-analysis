@@ -220,12 +220,14 @@ australian-corporate-insolvency-analysis/
 ├── .gitignore
 ├── Australian_Corporate_Insolvency_Analysis.ipynb
 ├── images/
+│   ├── .gitkeep
 │   ├── 01_national_insolvency_trends.png
 │   ├── 02_historical_industry_trends.png
 │   ├── 03_recent_monitoring_signals.png
 │   ├── 04_construction_sensitivity.png
 │   └── 05_rolling_industry_trends.png
 └── reports/
+    ├── .gitkeep
     └── Australian_Corporate_Insolvency_Analysis_Python.pdf
 ```
 
