@@ -224,7 +224,7 @@ australian-corporate-insolvency-analysis/
 │   ├── 02_historical_industry_trends.png
 │   ├── 03_recent_monitoring_signals.png
 │   ├── 04_construction_sensitivity.png
-│   └── 05_integrated_monitoring.png
+│   └── 05_rolling_industry_trends.png
 └── reports/
     └── Australian_Corporate_Insolvency_Analysis_Python.pdf
 ```
@@ -261,11 +261,11 @@ Compares reported Construction appointment growth with the illustrative sensitiv
 
 ![Construction Sensitivity Analysis](images/04_construction_sensitivity.png)
 
-### 5. Integrated Industry Monitoring Framework
+### 5. Rolling 12-Month Industry Appointment Trends
 
-Summarises industry monitoring priorities after incorporating historical evidence into recent monitoring signals.
+Illustrates longer-term industry appointment trajectories using rolling 12-month totals, providing historical context for interpreting recent distress signals.
 
-![Integrated Industry Monitoring Framework](images/05_integrated_monitoring.png)
+![Rolling 12-Month Industry Appointment Trends](images/05_rolling_industry_trends.png)
 
 ---
 
